@@ -1,1 +1,4 @@
-{"324":{"id":324,"content":"HI NestJS"},"900":{"id":900,"content":"message after adding DI"}}
+{
+  "324": { "id": 324, "content": "HI NestJS" },
+  "900": { "id": 900, "content": "message after adding DI" }
+}
